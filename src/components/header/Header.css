@@ -1,0 +1,25 @@
+.header {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #d71e28;
+  border-bottom: 4px solid #fcc60a;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.hamburger {
+  position: relative;
+  top: -4px;
+  display: none;
+}
+.hamburger div {
+  background-color: #fff;
+  width: 30px;
+  height: 2px;
+  margin: 5px;
+}
+.Logo {
+  position: relative;
+  top: -4px;
+}
