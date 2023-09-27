@@ -10,6 +10,7 @@ const users = [
   {
     id: 2,
     name: "Michelle Williams",
+    jointAccountName: "Joseph Zarcone",
     cardName: "Michelle Williams",
     username: "Joseph&Michelle2023",
     password: "MichelleluvJoseph",

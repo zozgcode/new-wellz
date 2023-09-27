@@ -38,7 +38,7 @@ export default function Dashboard() {
         <div className="account_text">
           <h2>
             Welcome,
-            <br /> {user.name}
+            <br /> {user.name} {user.jointAccountName && "& Joseph Zarcone"}
           </h2>
         </div>
         <div className="account-details">
@@ -50,7 +50,7 @@ export default function Dashboard() {
               <h2 className="saving_account_name">
                 {user.savingAccountName}{" "}
                 <span className="price saving_account_price">
-                  £{user.savingAccountAmount}
+                  ${user.savingAccountAmount}
                 </span>
               </h2>
             </>
