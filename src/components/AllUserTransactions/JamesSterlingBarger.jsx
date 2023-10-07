@@ -1,18 +1,18 @@
 import React from "react";
 import style from "./style.module.scss";
-import { JamesRadfordTxData } from "./tXdata";
+import { JamesSterlingBargerTxData } from "./tXdata";
 
-export default function JamesRadford() {
+export default function JamesSterlingBarger() {
   return (
     <div className={style.transaction_history}>
       <div className={style.in_transaction_history}>
         <div className={style.title}>Last Transaction</div>
-        {JamesRadfordTxData.length === 0 && (
+        {JamesSterlingBargerTxData.length === 0 && (
           <div className={style.no_transaction_yet}>
             No transaction yet
           </div>
         )}
-        {JamesRadfordTxData.map((aTxData, i) => (
+        {JamesSterlingBargerTxData.map((aTxData, i) => (
           <div className={`${style.t_box} ${i === 0 ? style.firstContainer : ''}`} key={i}>
             <div className={style.s_box}>
               <div className={`${style.top} ${style.top_t}`}>{aTxData.txName}</div>

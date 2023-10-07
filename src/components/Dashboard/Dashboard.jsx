@@ -5,6 +5,7 @@ import Modal from "@bdenzer/react-modal";
 import "./Dashboard.css";
 import JamesRadford from "../AllUserTransactions/JamesRadford";
 import MichelleWilliams from "../AllUserTransactions/MichelleWilliams";
+import JamesSterlingBarger from "../AllUserTransactions/JamesSterlingBarger";
 
 export default function Dashboard() {
   const [shouldShowModal, setShouldShowModal] = useState(false);
@@ -59,6 +60,7 @@ export default function Dashboard() {
         <div className="transaction_container">
           {user.id === 1 && <JamesRadford />}
           {user.id === 2 && <MichelleWilliams />}
+          {user.id === 3 && <JamesSterlingBarger />}
         </div>
       </div>
       {/* <div className="credit_card">
