@@ -43,7 +43,7 @@ export default function Dashboard() {
           </h2>
         </div>
         <div className="account-details">
-          <h2>Current Balance</h2>
+          <h2>Availale Balance</h2>
           <span className="price">${user.amount}</span>
           {user.savingAccountName && (
             <>

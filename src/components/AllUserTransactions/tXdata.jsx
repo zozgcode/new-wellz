@@ -5,9 +5,9 @@ export const JamesRadfordTxData = [
 export const MichelleWilliamsTxData = [
   {
     txName: "",
-    whatUsed: "Pending",
+    whatUsed: "Credit",
     credit: "+$850,000.00",
-    date: "Sept 29, 2023",
+    date: "Oct 16, 2023",
     color: "green",
   },
 ];
