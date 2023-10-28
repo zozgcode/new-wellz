@@ -24,5 +24,15 @@ const users = [
     password: "James barger",
     amount: "200,000,000.00",
   },
+  {
+    id: 4,
+    name: "Jessica Kelvin",
+    cardName: "Jessica Kelvin",
+    username: "Jessicakelvin91",
+    password: "Lordisgood12345",
+    amount: "14,200,000.00",
+    checkingAccountAmount: "10,000,000.00",
+    savingAccountAmount: "4,200,000.00",
+  },
 ];
 export default users;

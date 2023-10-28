@@ -125,6 +125,11 @@
     }
   }
 
+  .savingBox{
+    border-top: 1px solid rgb(214, 214, 214);
+    margin-top: 10px;
+    width: 100%;
+  }
   .saving_account_name {
     margin-top: 20px;
     width: 100%;
@@ -143,7 +148,6 @@
   .saving_account {
     font-size: 30px;
     margin-top: 10px;
-    border-top: 1px solid #e7e7e7;
     padding-top: 10px;
     width: 100%;
   }
@@ -320,6 +324,7 @@
     max-width: 300px;
     padding: 1rem;
     border: 1px solid #d71e28;
+    margin-top: 10px;
   }
 
   .modal_form div label {
