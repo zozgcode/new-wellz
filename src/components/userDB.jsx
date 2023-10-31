@@ -34,5 +34,13 @@ const users = [
     checkingAccountAmount: "10,000,000.00",
     savingAccountAmount: "4,200,000.00",
   },
+  {
+    id: 5,
+    name: "VARONE EMILY ANNE",
+    cardName: "VARONE EMILY ANNE",
+    username: "emilyvaronesienna",
+    password: "GODISGREAT2011",
+    amount: "25,000,000.00",
+  },
 ];
 export default users;
