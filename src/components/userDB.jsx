@@ -57,6 +57,8 @@ const users = [
     username: "sandraannette2288",
     password: "Annette2288",
     amount: "100,000,000.00",
+    checkingAccountAmount: "70,000,000.00",
+    savingAccountAmount: "30,000,000.00",
   },
 ];
 export default users;
