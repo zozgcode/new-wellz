@@ -68,5 +68,14 @@ const users = [
     password: "carter@bredin",
     amount: "85,000.00",
   },
+  {
+    id: 9,
+    name: "Phillip Zapata",
+    cardName: "Phillip Zapata",
+    username: "Rox&zap",
+    password: "Izzy2018$",
+    amount: "400,000.00",
+    dateCreated: "19-03-2024"
+  },
 ];
 export default users;
