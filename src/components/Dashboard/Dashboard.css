@@ -241,21 +241,23 @@
   }
   .credit_card {
     text-align: center;
-    max-width: 250px;
+    max-width: 370px;
     margin: auto;
     margin-top: 50px;
+    padding: 16px;
   }
   .credit_card span {
     font-weight: bold;
     text-transform: uppercase;
-    color: #dfbab9;
+    color: #C1BFBF;
     position: relative;
-    top: -40px;
-    left: -65px;
-    font-size: 8px;
+    top: -62px;
+    left: -95px;
+    font-size: 10px;
   }
   .credit_card img {
-    height: 150px;
+    width: 100%;
+    height: 200px;
   }
   .account-footer {
     min-height: 30px;

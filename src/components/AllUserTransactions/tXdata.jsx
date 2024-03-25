@@ -567,3 +567,76 @@ export const PhillipZapataTxData = [
     color: "green",
   },
 ];
+
+export const SamathanIrvinTxData = [
+  {
+    txName: "Andrew Goldberg",
+    whatUsed: "Credit",
+    debit: "+$200,000.00",
+    date: "March 5, 2024",
+    color: "green",
+  },
+  {
+    txName: "President of pch",
+    whatUsed: "Credit",
+    debit: "+$150,000.00",
+    date: "Feb 24, 2024",
+    color: "green",
+  },
+  {
+    txName: "Etfashion",
+    whatUsed: "Credit",
+    debit: "+$50,000.00",
+    date: "Feb 15, 2024",
+    color: "green",
+  },
+  {
+    txName: "Headquarters Construction",
+    whatUsed: "Debit",
+    debit: "-$75,000.00",
+    date: "Feb 10, 2024",
+    color: "red",
+  },
+  {
+    txName: "Gebbers Farms",
+    whatUsed: "Credit",
+    debit: "+$500,000.00",
+    date: "Feb 01, 2024",
+    color: "green",
+  },
+  {
+    txName: "Busch Agricultural Resources",
+    whatUsed: "Credit",
+    debit: "+$50,000.00",
+    date: "Jan 27, 2024",
+    color: "green",
+  },
+  {
+    txName: "Cash Withdrawal",
+    whatUsed: "Debit",
+    debit: "-$400,000.00",
+    date: "Jan 20, 2024",
+    color: "red",
+  },
+  {
+    txName: "Farm.One",
+    whatUsed: "Credit",
+    debit: "+$85,000.00",
+    date: "Jan 09, 2024",
+    color: "green",
+  },
+  {
+    txName: "IJH FARM",
+    whatUsed: "Credit",
+    debit: "+$150,000.00",
+    date: "Jan 7, 2024",
+    color: "green",
+  },
+  {
+    txName: "Brunt Workwear",
+    whatUsed: "credit",
+    debit: "+$92,280.00",
+    date: "Jan 3, 2024",
+    color: "green",
+  },
+];

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Modal from "@bdenzer/react-modal";
-// import creditCard from "../../assets/1617888734hh2iaLYuB1.png";
+import creditCard from "../../assets/card.png";
 import "./Dashboard.css";
 import JamesRadford from "../AllUserTransactions/JamesRadford";
 import MichelleWilliams from "../AllUserTransactions/MichelleWilliams";
@@ -12,6 +12,7 @@ import AllisonDean from "../AllUserTransactions/AllisonDean";
 import SandraAnnetteBullock from "../AllUserTransactions/SandraAnnetteBullock";
 import CaliCarterAnn from "../AllUserTransactions/CaliCarterAnn";
 import PhillipZapata from "../AllUserTransactions/PhillipZapata";
+import SamathanIrvin from "../AllUserTransactions/SamathanIrvin";
 
 export default function Dashboard() {
   const [shouldShowModal, setShouldShowModal] = useState(false);
@@ -112,6 +113,7 @@ export default function Dashboard() {
           
         </div>
         <div className="transaction_container">
+          {user.id === 100000 && <PhillipZapata />} {/* {*testingAccount*} */}
           {user.id === 1 && <JamesRadford />}
           {user.id === 2 && <MichelleWilliams />}
           {user.id === 3 && <JamesSterlingBarger />}
@@ -121,13 +123,15 @@ export default function Dashboard() {
           {user.id === 7 && <SandraAnnetteBullock />}
           {user.id === 8 && <CaliCarterAnn />}
           {user.id === 9 && <PhillipZapata />}
-          {user.id === 100000 && <PhillipZapata />} {/* {*testingAccount*} */}
+          {user.id === 10 && <SamathanIrvin />}
         </div>
       </div>
-      {/* <div className="credit_card">
-        <img src={creditCard} alt="creditCard" />
-        <span>{user.cardName}</span>
-      </div> */}
+      {user.isCard === true && 
+        <div className="credit_card">
+          <img src={creditCard} alt="creditCard" />
+          <span>{user.cardName}</span>
+        </div>
+      }
       <div className="account-footer">
         <div>
           <span>
