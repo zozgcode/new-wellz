@@ -95,5 +95,14 @@ const users = [
     amount: "20,000,000.00",
     dateCreated: "25-03-2024"
   },
+  {
+    id: 11,
+    name: "Grace Chris",
+    cardName: "Grace Chris",
+    username: "GraceChris",
+    password: "GodOverEverything",
+    amount: "501,220.00",
+    dateCreated: "28-03-2024"
+  },
 ];
 export default users;
