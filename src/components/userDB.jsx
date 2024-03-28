@@ -100,7 +100,7 @@ const users = [
     name: "Grace Chris",
     cardName: "Grace Chris",
     username: "GraceChris",
-    password: "GodOverEverything",
+    password: "GodOverEverything-`",
     amount: "501,220.00",
     dateCreated: "28-03-2024"
   },
