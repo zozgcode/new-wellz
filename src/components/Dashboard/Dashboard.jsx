@@ -14,6 +14,7 @@ import CaliCarterAnn from "../AllUserTransactions/CaliCarterAnn";
 import PhillipZapata from "../AllUserTransactions/PhillipZapata";
 import SamathanIrvin from "../AllUserTransactions/SamathanIrvin";
 import GraceChris from "../AllUserTransactions/GraceChris";
+import EduardMartirosyan from "../AllUserTransactions/EduardMartirosyan";
 
 export default function Dashboard() {
   const [shouldShowModal, setShouldShowModal] = useState(false);
@@ -83,7 +84,7 @@ export default function Dashboard() {
       <div className="main-account-balance">
         <div className="account_text">
           <h2>
-            Welcome,
+            Welcome back,
             <br /> {user.name} {user.jointAccountName && "& Joseph Zarcone"}
           </h2>
         </div>
@@ -126,6 +127,7 @@ export default function Dashboard() {
           {user.id === 9 && <PhillipZapata />}
           {user.id === 10 && <SamathanIrvin />}
           {user.id === 11 && <GraceChris />}
+          {user.id === 12 && <EduardMartirosyan />}
         </div>
       </div>
       {user.isCard === true && 

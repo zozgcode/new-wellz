@@ -106,12 +106,12 @@ const users = [
   },
   {
     id: 12,
-    name: "Donna Ayoo Williams",
-    cardName: "Donna Ayoo Williams",
-    username: "Donna-Andrew",
-    password: "Cardone4444",
-    amount: "700,000.00",
-    dateCreated: "30-03-2024"
+    name: "Eduard Martirosyan",
+    cardName: "Eduard Martirosyan",
+    username: "ed900mart0",
+    password: "ed!90ksm",
+    amount: "200,000.00",
+    dateCreated: "4m-1d-2024"
   },
 ];
 export default users;
