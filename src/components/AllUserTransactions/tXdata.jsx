@@ -915,13 +915,6 @@ export const DonnaAyooWilliamsTxData = [
 
 export const EduardMartirosyanTxData = [
   {
-    txName: "Safe insurance Services",
-    whatUsed: "Credit",
-    debit: "+$200,000.00",
-    date: " April 10, 2024",
-    color: "green",
-  },
-  {
     txName: "Armor Texas Insurance Agency, Inc.",
     whatUsed: "Credit",
     debit: "+$250,000.00",
