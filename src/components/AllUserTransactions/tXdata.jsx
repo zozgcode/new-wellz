@@ -917,7 +917,7 @@ export const EduardMartirosyanTxData = [
   {
     txName: "Armor Texas Insurance Agency, Inc.",
     whatUsed: "Credit",
-    debit: "+$250,000.00",
+    debit: "+$200,000.00",
     date: "Feb 18, 2024",
     color: "green",
   },
