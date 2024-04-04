@@ -915,23 +915,37 @@ export const DonnaAyooWilliamsTxData = [
 
 export const EduardMartirosyanTxData = [
   {
-    txName: "Armor Texas Insurance Agency, Inc.",
+    txName: "State Farm",
     whatUsed: "Credit",
-    debit: "+$200,000.00",
-    date: "Feb 18, 2024",
+    debit: "+$48,000.00",
+    date: "Mar 25, 2024",
+    color: "green",
+  },
+  {
+    txName: "Liberty Mutual",
+    whatUsed: "Credit",
+    debit: "+$12,000.00",
+    date: "Mar 12, 2024",
     color: "green",
   },
   {
     txName: "Armor Texas Insurance Agency, Inc.",
     whatUsed: "Credit",
-    debit: "+$100,000.00",
+    debit: "+$35,000.00",
+    date: "Feb 18, 2024",
+    color: "green",
+  },
+  {
+    txName: "Acuity Insurance",
+    whatUsed: "Credit",
+    debit: "+$20,000.00",
     date: "Jan 20, 2024",
     color: "green",
   },
   {
     txName: "Mary Lou Roush Winings",
     whatUsed: "Credit",
-    debit: "+$350,000.00",
+    debit: "+$85,000.00",
     date: "Mar 21, 2023",
     color: "green",
   },
@@ -952,7 +966,7 @@ export const EduardMartirosyanTxData = [
   {
     txName: "Safe insurance Services",
     whatUsed: "Credit",
-    debit: "+$270,000.00",
+    debit: "+$70,000.00",
     date: "Jun 05, 2022",
     color: "green",
   },
