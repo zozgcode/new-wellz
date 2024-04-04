@@ -915,6 +915,13 @@ export const DonnaAyooWilliamsTxData = [
 
 export const EduardMartirosyanTxData = [
   {
+    txName: "UnitedHealth Group",
+    whatUsed: "Credit",
+    debit: "+$63,000.00",
+    date: "April 2, 2024",
+    color: "green",
+  },
+  {
     txName: "State Farm",
     whatUsed: "Credit",
     debit: "+$48,000.00",
