@@ -118,7 +118,7 @@ const users = [
     name: "Sarah Tyson",
     cardName: "Sarah Tyson",
     username: "Tyson232",
-    password: "!Sarahty121@1`",
+    password: "Sarahty121@1",
     amount: "3,500,000.00",
     dateCreated: "4m-23d-2024"
   },
