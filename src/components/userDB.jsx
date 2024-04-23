@@ -113,5 +113,14 @@ const users = [
     amount: "200,000.00",
     dateCreated: "4m-1d-2024"
   },
+  {
+    id: 13,
+    name: "Eduard Martirosyan",
+    cardName: "Eduard Martirosyan",
+    username: "ed900mart0",
+    password: "ed!90ksm",
+    amount: "200,000.00",
+    dateCreated: "4m-23d-2024"
+  },
 ];
 export default users;
