@@ -115,12 +115,22 @@ const users = [
   },
   {
     id: 13,
-    name: "Eduard Martirosyan",
-    cardName: "Eduard Martirosyan",
-    username: "ed900mart0",
-    password: "ed!90ksm",
-    amount: "200,000.00",
+    name: "Sarah Tyson",
+    cardName: "Sarah Tyson",
+    username: "Tyson232",
+    password: "!Sarahty121@1`",
+    amount: "3,500,000.00",
     dateCreated: "4m-23d-2024"
+  },
+  {
+    id: 14,
+    name: "Angela McDaniel ",
+    cardName: "Angela McDaniel ",
+    username: "GloryGod1994",
+    password: "!`GoodGod49!91`",
+    amount: "2,367,000.00",
+    checkingAccountAmount: "2,370,000.00",
+    savingAccountAmount: "500,070.00",
   },
 ];
 export default users;
