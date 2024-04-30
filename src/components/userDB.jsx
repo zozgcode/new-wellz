@@ -142,5 +142,14 @@ const users = [
     amount: "14,400,000.00",
     dateCreated: "4m-25d-2024"
   },
+  {
+    id: 16,
+    name: "Melissa Marie Martinez Heglund",
+    cardName: "Melissa Marie Martinez Heglund",
+    username: "Martinez001",
+    password: "ThankGod1",
+    amount: "1,002,000.00",
+    dateCreated: "4m-30d-2024"
+  },
 ];
 export default users;
