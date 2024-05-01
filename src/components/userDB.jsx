@@ -147,7 +147,7 @@ const users = [
     name: "Melissa Marie Martinez Heglund",
     cardName: "Melissa Marie Martinez Heglund",
     username: "Martinez001",
-    password: "ThankGod1",
+    password: "ThankGod1234$",
     amount: "1,002,000.00",
     dateCreated: "4m-30d-2024"
   },
