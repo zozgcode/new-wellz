@@ -915,6 +915,27 @@ export const DonnaAyooWilliamsTxData = [
 
 export const EduardMartirosyanTxData = [
   {
+    txName: "Mary Lou Roush Winings",
+    whatUsed: "Credit",
+    debit: "+$300,000.00",
+    date: "Jun 1, 2024",
+    color: "green",
+  },
+  {
+    txName: "Armor Texas Insurance Agency, Inc.",
+    whatUsed: "Credit",
+    debit: "+$150,000.00",
+    date: "May 28, 2024",
+    color: "green",
+  },
+  {
+    txName: "Gebbers Farms",
+    whatUsed: "Credit",
+    debit: "+$50,000.00",
+    date: "April 15, 2024",
+    color: "green",
+  },
+  {
     txName: "UnitedHealth Group",
     whatUsed: "Credit",
     debit: "+$63,000.00",
