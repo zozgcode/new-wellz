@@ -110,7 +110,7 @@ const users = [
     cardName: "Eduard Martirosyan",
     username: "ed900mart0",
     password: "ed!90ksm",
-    amount: "200,000.00",
+    amount: "885,200.00",
     dateCreated: "4m-1d-2024"
   },
   {
