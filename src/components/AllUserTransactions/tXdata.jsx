@@ -929,6 +929,20 @@ export const EduardMartirosyanTxData = [
     color: "green",
   },
   {
+    txName: "Armor Texas Insurance Agency, Inc.",
+    whatUsed: "Credit",
+    debit: "+$90,200.00",
+    date: "May 3, 2024",
+    color: "green",
+  },
+  {
+    txName: "Gebbers Farms",
+    whatUsed: "Credit",
+    debit: "+$75,000.00",
+    date: "April 30, 2024",
+    color: "green",
+  },
+  {
     txName: "Gebbers Farms",
     whatUsed: "Credit",
     debit: "+$50,000.00",
