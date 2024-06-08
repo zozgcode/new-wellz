@@ -139,8 +139,9 @@ const users = [
     isCard: true,
     username: "ballestkay376",
     password: "Ballykayla",
-    amount: "14,400,000.00",
-    dateCreated: "4m-25d-2024"
+    amount: "100,000,000.00",
+    dateCreated: "4m-25d-2024",
+    updated: "6m-8d-2024"
   },
   {
     id: 16,
